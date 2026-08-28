@@ -7,7 +7,7 @@ This script adds a custom "Move" option to the right-click context menu in the N
 * **Visual Feedback:** Replaces terminal output with native desktop notifications for transfer progress and completion.
 
 ## Prerequisites
-* Linux Mint (Nemo File Manager)
+* Linux Mint 
 * ADB
 * Zenity
 
