@@ -13,6 +13,9 @@ This script adds a custom "Move" option to the right-click context menu in the N
 
 ## Installation
 Run the setup script:
+
+'''
+
 chmod +x setup.sh
 ./setup.sh
 
